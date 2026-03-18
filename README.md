@@ -4,6 +4,6 @@ Comprises of all the relevant topics that a Data Science or Machine Learning ent
 Carefully crafted to meet the needs of all users from a beginner through an intermediate level to an advanced level. 
 
 # Upcoming updates
-1.Will update the files soon
-2. Will add other files soon
+1.The files will be updates to new versions
+2.Other files will be added soon
 
